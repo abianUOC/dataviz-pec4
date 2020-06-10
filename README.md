@@ -7,7 +7,7 @@ Universidad: Universitat Oberta de Catalunya\
 Autor: David Abián\
 Fecha: Mayo de 2020
 
-### Contiene:
+### Incluye:
 * `Dashboard 1.png`: Captura de pantalla del primer tablero.
 * `Dashboard 2.png`: Captura de pantalla del segundo tablero.
 * `dataset1.csv`: Conjunto de datos del primer tablero, generado con `preprocessing.R`.
